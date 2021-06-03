@@ -28,7 +28,7 @@ $ python3 main.py
 ## 実行結果
 このようなグラフが生成された．
 
-<div text-align="center">
-<img width="48%" src="images/loss.png">
-<img width="48%" src="images/accuracy.png">
+<div>
+<img width="49%" src="images/loss.png">
+<img width="49%" src="images/accuracy.png">
 </div>
